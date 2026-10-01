@@ -3,11 +3,11 @@
 > **Topics:** `rag` `ollama` `local-ai` `vector-search` `embeddings` `private-ai` `document-retrieval`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/local-rag-mini/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/local-rag-mini/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Privacy: 100% Local](https://img.shields.io/badge/Privacy-100%25%20Local-success.svg)](https://github.com/MobileConduit)
+[![Privacy: 100% Local](https://img.shields.io/badge/Privacy-100%25%20Local-success.svg)](https://github.com/shadialhasan)
 [![Backend: Ollama](https://img.shields.io/badge/Backend-Ollama%20REST-informational.svg)](https://ollama.ai)
-[![CI/CD Pipeline](https://github.com/MobileConduit/local-rag-mini/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/local-rag-mini/actions)
+[![CI/CD Pipeline](https://github.com/shadialhasan/local-rag-mini/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/local-rag-mini/actions)
 
 A lightweight, zero-cloud-cost Retrieval-Augmented Generation (RAG) micro-engine designed for enterprise privacy and offline air-gapped environments. Leverages local Ollama embeddings and pure vector similarity math with configurable rate limiting presets and enterprise security headers.
 
@@ -64,7 +64,7 @@ sequenceDiagram
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/local-rag-mini.git
+git clone https://github.com/shadialhasan/local-rag-mini.git
 cd local-rag-mini
 pip install -r requirements.txt
 ```
@@ -118,7 +118,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
