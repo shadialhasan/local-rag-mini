@@ -1,5 +1,8 @@
 # 🧠 local-rag-mini
 
+> **Topics:** `rag` `ollama` `local-ai` `vector-search` `embeddings` `private-ai` `document-retrieval`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/local-rag-mini/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Privacy: 100% Local](https://img.shields.io/badge/Privacy-100%25%20Local-success.svg)](https://github.com/MobileConduit)

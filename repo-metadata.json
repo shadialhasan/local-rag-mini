@@ -1,0 +1,12 @@
+{
+  "description": "Zero-cloud-cost private Retrieval-Augmented Generation (RAG) engine utilizing Ollama and local embeddings",
+  "topics": [
+    "rag",
+    "ollama",
+    "local-ai",
+    "vector-search",
+    "embeddings",
+    "private-ai",
+    "document-retrieval"
+  ]
+}
