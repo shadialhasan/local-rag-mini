@@ -1,5 +1,6 @@
 # 🧠 local-rag-mini
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/local-rag-mini/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Privacy: 100% Local](https://img.shields.io/badge/Privacy-100%25%20Local-success.svg)](https://github.com/MobileConduit)
 [![Backend: Ollama](https://img.shields.io/badge/Backend-Ollama%20REST-informational.svg)](https://ollama.ai)
@@ -54,6 +55,16 @@ sequenceDiagram
 - **Zero Cloud Cost**: Complete privacy with offline fallback simulation vectors when Ollama is offline.
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/local-rag-mini.git
+cd local-rag-mini
+pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 
